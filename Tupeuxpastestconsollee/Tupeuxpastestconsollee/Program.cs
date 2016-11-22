@@ -10,6 +10,9 @@ namespace Tupeuxpastestconsollee
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Vive la pause");
+            Console.ReadKey();
+
         }
     }
 }
